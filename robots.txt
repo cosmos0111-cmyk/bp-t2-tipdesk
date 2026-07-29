@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tipdesk.site/sitemap.xml
+Sitemap: https://tipdesk.site/sitemap-index.xml
